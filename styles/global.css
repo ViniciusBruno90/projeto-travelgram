@@ -38,7 +38,7 @@ a:hover {
 
 .container {
   padding-inline: 32px;
-  max-width: 1280px;
+  max-width: 150rem;
   margin-inline: auto; /* serve para mexer somente nas laterais */
 }
 
